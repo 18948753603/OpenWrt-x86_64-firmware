@@ -3,7 +3,7 @@ on: push
 jobs:
   my_first_job:
     name: My first job
-     runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
      setps:
      - name: checkout
        uses: actions/checkout@master
