@@ -1,5 +1,5 @@
 name: Hello Wordl
-on: push
+#on: push
 jobs:
   my_first_job:
     name: My first job
